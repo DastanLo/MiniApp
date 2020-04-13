@@ -1,0 +1,9 @@
+{
+  "port" : 8000,
+  "mongoUri" : "mongodb://localhost/socialNetDb",
+  "mongoose" : {
+    "useNewUrlParser": true,
+    "useUnifiedTopology": true,
+    "useCreateIndex" : true
+  }
+}
